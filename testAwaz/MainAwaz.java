@@ -23,11 +23,11 @@ public class MainAwaz {
 
         //cree une nouvelle m�lodie
               // Ajouter quelques notes dans la m�lodie
-        melodie.add("Do")
-        melodie.add("Ri")
-        melodie.add("Mi")
-        melodie.add("Fa")
-        melodie.add("Sol")
+        melodie.add("Do");
+        melodie.add("Ri");
+        melodie.add("Mi");
+        melodie.add("Fa");
+        melodie.add("Sol");
 
 
         //parcourir et afficher les notes
